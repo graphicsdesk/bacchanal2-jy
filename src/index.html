@@ -63,10 +63,23 @@
           </case>
           <case n="'graphic'">
             <div class="graphic">
-              <if condition="item.value.asset === 'graphic-name.html'">
-                <include src="graphic-name.html"></include>
+              <if condition="item.value.asset === 'bacchanal_timeline1.html'">
+                <include src="bacchanal_timeline1.html"></include>
+              </if>
+              <if condition="item.value.asset === 'bacchanal_timeline2.html'">
+                <include src="bacchanal_timeline2.html"></include>
               </if>
             </div>
+          </case>
+          <case n="'graphic-container'">
+            <if condition="item.value === 'start-container'">
+              <div class="graphic-container">
+            </if>
+          </case>
+          <case n="'graphic-container'">
+            <if condition="item.value === 'stop-container'">
+            </div>
+            </if>
           </case>
         </switch>
       </each>

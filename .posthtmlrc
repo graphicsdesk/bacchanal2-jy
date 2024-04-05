@@ -7,12 +7,262 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "After two name changes, multiple controversies and threats of cancellations, and even more big name artists, the annual spring concert now known as Bacchanal has cemented itself as a Columbia tradition. Explore how the tradition has changed below."
+          },
+          {
+            "type": "graphic-container",
+            "value":"start-container"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "bacchanal_timeline1.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "bacchanal_timeline2.html"
+            }
+          },
+          {
+            "type": "graphic-container",
+            "value":"start-container"
+          },
+          {
+            "type": "text",
+            "value": "Throughout much of the 20th century, Barnard students were required to adhere to a strict curfew. During the weekend of May 9, 1964, however, students enjoyed a one-hour extension—the “first such extension in the history of the college” according to an April 1964 Spectator article—for one reason: to celebrate Spring Weekend."
+          },
+          {
+            "type": "text",
+            "value": "As campus transformed into a carnival that weekend, the King’s Crown Hotel offered Columbia couples discounted rates of $5.50 to $6, and students across the undergraduate schools enjoyed music, boat rides, and crew races."
+          },
+          {
+            "type": "text",
+            "value": "The spring concert and festivity at Columbia, now known as Bacchanal, was thus born. As the concert now turns 60, Spectator spoke with four previous spring concert organizers from 1969 to 2023 about their experiences organizing and celebrating the event during their time at the University."
+          },
+          {
+            "type": "text",
+            "value": "<b>1960s: The beginning of “Spring Weekend”</b>"
+          },
+          {
+            "type": "text",
+            "value": "While the idea of a Spring Weekend had floated around as early as 1958, the 1964 event marked the beginning of a new campus tradition—even if the organizers, a mix of student groups such as Pamphratria, the Ted Kremer Society, and the Barnard Social Committee, were unaware at the time. Throughout the next few years, students would be able to enjoy live music, purchase tickets to “Moonlight Sail,” and spend a night at the King’s Crown."
+          },
+          {
+            "type": "text",
+            "value": "In the late ’60s, however, tradition wavered. In 1969, the dean’s office announced that Spring Weekend would be postponed until the fall due to the “volatile situation on campus.” Protests on campus had begun the year prior, in the spring of 1968, against both the University’s involvement in the Vietnam War and the gymnasium that was to be constructed in Morningside Park. According to an article published in Spectator on May 2, 1969, “proper security measures” could not be guaranteed for many of the events."
+          },
+          {
+            "type": "text",
+            "value": "“People didn’t know what was going to happen, whether the school year was going to be completed. Most of the fraternities just fizzled away, including the one I was in,” 1969 Spring Weekend Chairman David Lipman, CC ’71, said."
+          },
+          {
+            "type": "text",
+            "value": "The one event that year that remained was the music: the “First East Coast Grease Festival” performance by the Kingsmen on Low Steps. Members of the Kingsmen that year eventually formed the group Sha Na Na, and went on to become a successful rock ’n’ roll band."
+          },
+          {
+            "type": "text",
+            "value": "“We had them come in on motorcycles,” Lipman said. “They were slicked down people with mullet haircuts … thousands of students came.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>1980s and 1990s: Columbiafest, carnivals, and the birth of Bacchanal</b>"
+          },
+          {
+            "type": "text",
+            "value": "By 1980, the event donned a new name: Columbiafest. Organized by the Ferris Booth Hall board of managers, a part of student government at the time, the annual Columbiafest included block parties, jazz festivals, charity drives sponsored by Greek life organizations, and a “Grand Finale Party” on Low Steps. Notable performers included the Ramones in 1982 and the Red Hot Chili Peppers in 1988. Throughout the 1990s, Columbiafest often coincided with Earth Day, and the Earth Coalition co-sponsored Columbiafest events."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/UBVNAO2QSFCUNGQ2RL26SDYJIE.jpg",
+              "caption": "The Ocean Blue played at Columbiafest in 1994, surrounded by students on Low Steps.",
+              "credit": "Spectator archives"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In 1998, Bacchanal, the brainchild of Lea Goldman, CC ’98, Charles Saliba, CC ’00, and Claudia Desimio, CC ’99, was born. The three were a part of Columbia College Student Council. By this time, the board of managers had dissolved into subcategories of boards, including Columbia Concerts and Columbia Special Events, which would later play a large role in organizing Bacchanal throughout the early 2000s."
+          },
+          {
+            "type": "text",
+            "value": "According to Goldman, the name “Bacchanal” was a nod to “The Bacchae,” a play that is assigned as a part of the Core Curriculum."
+          },
+          {
+            "type": "text",
+            "value": "“Nobody thought of Columbia as fun,” Goldman said. “And we felt like well, that’s also the job of student government is to help market … [that] there was this other side.”"
+          },
+          {
+            "type": "text",
+            "value": "Goldman said that during her earlier years at Columbia, the spring concert felt random at times and didn’t include a full day of activities. In 1998, Goldman along with others in CCSC worked towards changing this, combining Columbiafest staples, such as the carnival, with a larger music performance."
+          },
+          {
+            "type": "text",
+            "value": "Reorganizing the spring festivities was a daunting task, however."
+          },
+          {
+            "type": "text",
+            "value": "“We were wildly unfamiliar with how the process worked,” Goldman said. “I remember faxing artists and artists’ management letters explaining to them why they should perform … someone in the student activity center, like an adult … was like, ‘Guys, guys, that’s not how it works.’”"
+          },
+          {
+            "type": "text",
+            "value": "Garnering support within the student council was also a difficulty for Goldman."
+          },
+          {
+            "type": "text",
+            "value": "“There was a sense that it was an irresponsible way to spend that money,” Goldman said. “I remember we delivered speeches, passionate speeches, articulating exactly … why it was important to show another side of Columbia. That this was as important a part of the college experience as anything else.”"
+          },
+          {
+            "type": "text",
+            "value": "That year, CCSC ended up allocating $21,000 for the event. Rapper Busta Rhymes headlined the show."
+          },
+          {
+            "type": "text",
+            "value": "On the first official Bacchanal concert in Columbia history, rain poured down over Manhattan. Carnival games, including around 30 arcade-style video games, were placed under tents, and Goldman worried about everything going wrong."
+          },
+          {
+            "type": "text",
+            "value": "Despite the unprecedented weather, the concert was a success. Goldman laughed as she recalled Busta Rhymes’ team asking them to do his laundry due to the downpour."
+          },
+          {
+            "type": "text",
+            "value": "“They were like, can you have it done by the time he’s offstage?” Goldman said. “Claudia was like, ‘I got this’ and she took it and probably used her own quarters … and did Busta Rhymes’ laundry.”"
+          },
+          {
+            "type": "text",
+            "value": "During the concert, Goldman and other organizers of the event sat backstage, the reverb of the music pounding in their ears. At the height of the adrenaline rush, Goldman and other organizers had their own spontaneous stage performance as well."
+          },
+          {
+            "type": "text",
+            "value": "“No one invited us, we just went on stage and started tossing beach balls into the crowd,” Goldman said. “We’re soaking wet, the band’s soaking wet … and then I jumped into the crowd.”"
+          },
+          {
+            "type": "text",
+            "value": "Crowd surfing, especially in mosh pits with “very visible open spots” was not something Goldman expected herself to do."
+          },
+          {
+            "type": "text",
+            "value": "“It was very exciting, and very memorable, and I lost my voice,” Goldman said."
+          },
+          {
+            "type": "text",
+            "value": "Goldman had “no idea it had lived on,” but the following year, in 1999, Bacchanal came back—this time even bigger."
+          },
+          {
+            "type": "text",
+            "value": "Priya Vaidyanathan, SEAS ’00, one of the coordinators of Bacchanal in 1999, wanted to expand Bacchanal to be about more than just a concert."
+          },
+          {
+            "type": "text",
+            "value": "Activities included a Koronet Pizza eating contest, free Bacchanal T-shirts, a carnival with a rock climbing wall, inflatable sumo suits, henna artists, and more. Bacchanal became a community-building event on campus, uniting the four undergraduate schools, Vaidyanathan noted, as she found it an outlet to spend time with people outside of her school."
+          },
+          {
+            "type": "text",
+            "value": "“I remember distinctly during the concert, standing on the staircases up from the steps and the railing to look over and watch the concert, and just seeing the sea of people enjoying the concert and having such a great time,” Vaidyanathan said."
+          },
+          {
+            "type": "text",
+            "value": "<b>Early 2000s: Controversies, “War on Fun,” and how we got here </b>"
+          },
+          {
+            "type": "text",
+            "value": "At the turn of the century, Bacchanal continued to expand yearly. In 2000, the festivities expanded from a weekend to spanning an entire week, with nearly three times as much funding as before. Throughout this time, organizers often looked to peer institutions for inspiration, despite not having “equivalent funding or school spirit.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4ASX6AE4X5BGFB3AX7Q6SJ5QKI.jpg",
+              "caption": "Bacchanal 2001 consisted of a full week of events culminating in a performance by Outkast. The performance led to $35,000 of debt for Columbia Concerts.",
+              "credit": "Spectator archives"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Lerner Hall foam parties, midnight barbeques, eating contests, and dating games transformed the concert-centered event into more of a school spirit week."
+          },
+          {
+            "type": "text",
+            "value": "Prior to 2006, records suggest that alcoholic drinks were served by Bacchanal organizers throughout the festivities. In 2006, however, the weeklong activities list was condensed into five days. 2006 was also the last year the decadeslong carnival tradition appeared at Bacchanal."
+          },
+          {
+            "type": "text",
+            "value": "These changes coincided with what became known as the “War on Fun”—a “perceived crackdown” by the administration on campus events, especially those involving alcohol. Part of these new restrictions meant Bacchanal was no longer allowed to hold parties off campus."
+          },
+          {
+            "type": "text",
+            "value": "In a 2009 Spectator article, Jeremy Reich, CC ’09, Bacchanal president in 2009, said funding was “lower than usual,” and the “War on Fun” increased regulations, leading to a number of challenges organizing the event that year."
+          },
+          {
+            "type": "text",
+            "value": "In 2008, Bacchanal Events—which was named Columbia Special Events until around 2005—and Columbia Concerts merged to form Bacchanal Special Events. Bacchanal continued to explore different avenues of improving the event experience throughout the 2010s, including setting themes such as “ABacchalypse” in 2011 and “Baccha90s” in 2012."
+          },
+          {
+            "type": "text",
+            "value": "In spring 2014, headliner Lupe Fiasco stirred controversy after displaying an Israeli and Palestinian flag during his performance, saying, “Figure this shit out.” The same semester, an opinion piece titled “Bacchanal no free pass to sexually harass” was published in Spectator, describing the writer’s experiences with the heightened drunkenness on campus during Bacchanal and sexual assault."
+          },
+          {
+            "type": "text",
+            "value": "A few months later, in the summer of 2014, Bacchanal’s spring 2015 concert was put “under administrative review.” According to student organizers at the time, this was due to concerns of sexual harassment and misconduct, but University officials claimed more “general safety concerns.”"
+          },
+          {
+            "type": "text",
+            "value": "Throughout the 2014-15 school year, while the spring concert went on, the Bacchanal organizers had faced repeated threats of cancellation by administration. A few significant changes included the implementation of a wristband system, the establishment of a maximum capacity, and moving the concert earlier in the semester to Passover and Easter weekend."
+          },
+          {
+            "type": "text",
+            "value": "Now, Bacchanal adheres to similar restrictions regarding tickets, and the concert happens annually on the first Saturday of April."
+          },
+          {
+            "type": "text",
+            "value": "When the COVID-19 pandemic struck New York City in March 2020, Bacchanal festivities were canceled."
+          },
+          {
+            "type": "text",
+            "value": "“There definitely was a loss of institutional knowledge because after multiple years of shit not happening, advisors changing, and blah, blah, blah. You kind of do have to work from the ground up in certain places,” Kofi Meighan, SEAS ’23, Bacchanal president in 2023, said. “Three years ago, the economy was different, the music industry was different.”"
+          },
+          {
+            "type": "text",
+            "value": "According to Meighan, organizers reflected on what worked and what didn’t during the 2022 concert—which featured headliner Rick Ross at Terminal 5—and worked intensely to bring the concert back to campus. Like Goldman and Vaidyanathan from over two decades ago, Meighan also felt the rewards of his hard work on concert day."
+          },
+          {
+            "type": "text",
+            "value": "“When you work on something for, honestly close to a year … you’re like wow, all this time and effort being put into something and it’s finally here,” Meighan said. “The best part was really just people actually having fun and enjoying themselves.”"
+          },
+          {
+            "type": "text",
+            "value": "These days, Bacchanal celebrations are landmarked by <a href=\"https://www.columbiaspectator.com/arts-and-culture/2023/04/03/columbias-bacchanal-returns-to-campus-with-student-style-flowing-at-the-seams/\">colorful outfits</a>, fraternity “darties”, and live music that can be heard all the way down on 110th Street and Broadway—a big difference from the original 1964 “Spring Weekend.” As this year’s concert, headlined by J.I.D, approaches, however, the search for school spirit and campus community stays the same."
+          },
+          {
+            "type": "text",
+            "value": "<i>Arts & Culture Editor Emily Chen can be contacted at </i><a href=\"mailto:emily.chen@columbiaspectator.com\"><i>emily.chen@columbiaspectator.com</i></a><i>.</i><i> Follow her on X </i><a href=\"https://twitter.com/0omletsneurons\"><i>@0omletsneurons</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor Jenny Ye can be contacted at </i><a href=\"mailto:jenny.ye@columbiaspectator.com\"><i>jenny.ye@columbiaspectator.com</i></a><i>. Follow Spectator’s Arts & Culture section on Instagram </i><a href=\"https://instagram.com/artsatspec?igshid=YmMyMTA2M2Y=\"><i>@Artsatspec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Bacchanal’s Bacchstory: A look into 60 years of spring festivities at Columbia",
+        "dek": "Originally named “Spring Weekend,” the spring concert was officially inaugurated in 1964.",
+        "date": "April 5, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/emily-chen/\">Emily Chen</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/jenny-ye/\">Jenny Ye</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VRS6PSU5Q5DXNLYKPP2ZJO6XLI.png",
+        "cover_caption": "<a href=\"https://www.columbiaspectator.com/contributors/emily-chen/\">Emily Chen</a> / Arts & Culture Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1e8ugTfDUxLFqqdID3YDPxrOqDFRut2SnnDsiQv-8Hz4/edit"
       }
     }
   }
