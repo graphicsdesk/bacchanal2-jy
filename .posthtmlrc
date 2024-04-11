@@ -13,10 +13,6 @@
             "value": "After two name changes, multiple controversies and threats of cancellations, and even more big name artists, the annual spring concert now known as Bacchanal has cemented itself as a Columbia tradition. Explore how the tradition has changed below."
           },
           {
-            "type": "graphic-container",
-            "value":"start-container"
-          },
-          {
             "type": "graphic",
             "value": {
               "asset": "bacchanal_timeline1.html"
@@ -27,10 +23,6 @@
             "value": {
               "asset": "bacchanal_timeline2.html"
             }
-          },
-          {
-            "type": "graphic-container",
-            "value":"start-container"
           },
           {
             "type": "text",
@@ -91,7 +83,7 @@
           },
           {
             "type": "text",
-            "value": "According to Goldman, the name “Bacchanal” was a nod to “The Bacchae,” a play that is assigned as a part of the Core Curriculum."
+            "value": "According to Goldman, the name “Bacchanal” was a nod to “The Bacchae,” a play that was assigned as a part of the Core Curriculum."
           },
           {
             "type": "text",
